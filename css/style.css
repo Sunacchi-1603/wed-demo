@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100&family=Roboto:wght@100&display=swap');
+html, body {
+	width: 100%;
+	height: 100%;
+	font-family: 'Roboto', sans-serif
+}
+.navbar {
+	background-color: rgba(82, 64, 120, 0.9) !important;
+}
+.navbar li a {
+	color: #fff !important;
+}
+.navbar li a:hover {
+	color: #000 !important;
+}
+.carousel-inner img {
+	width: 100%;
+	background: rgb(14,14,15);
+	background: linear-gradient(0deg, rgba(14,14,15,0.8) 0%, rgba(246,247,247,0.16712622549019607) 100%);
+}
+.carousel-caption {
+	position: absolute;
+	top: 50%;
+}
+.carousel-caption h1 {
+	text-shadow: 5px 5px 15px #000;
+}
+.carousel-caption h3 {
+	text-shadow: 5px 5px 15px #000;
+}
+.btn-primary {
+	background-color: rgb(82, 64, 120);
+	border: 1px solid white;
+}
+.btn-primary:hover {
+background-color: rgb(82, 64, 100);
+}
