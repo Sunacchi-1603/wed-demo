@@ -97,13 +97,13 @@ border: 0px
 		top: 20%;
 	}
 	.carousel-caption h1 {
-		font-size: 250px;
+		font-size: 250%;
 	}
 	.caurousel-caption h3 {
 		font-size: 160%;
 	}
 	.calrousel-caption .btn {
-		font-size: 120px;
+		font-size: 120%;
 	}
 }
 
@@ -125,7 +125,7 @@ border: 0px
 }
 @media (max-width: 576px) {
 	.carousel-caption {
-		top: 10%;
+		top: 30%;
 	}
 	.carousel-caption h1 {
 		font-size: 150%;
